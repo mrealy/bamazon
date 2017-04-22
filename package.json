@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Definitely not amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrealy/bamazon.git"
+  },
+  "author": "mjrealy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mrealy/bamazon/issues"
+  },
+  "homepage": "https://github.com/mrealy/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
